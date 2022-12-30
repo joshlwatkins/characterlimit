@@ -1,3 +1,6 @@
+
+#Program to check if name is at least 3 characters long and no longer than 50 characters
+
 name = "Josh"
 
 if len(name) < 3:
